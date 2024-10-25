@@ -15,7 +15,7 @@ Found on kaggle.com - [93182 Steam games](https://www.kaggle.com/datasets/joebea
 ## Content
 
 - `data/` :
-  - `93182_steam_games.csv`: Original dataset
+  - `93182_steam_games.csv`: Original dataset (to [download](#original-dataset))
   - `steam_games_reduced.csv`: Preprocessed data without *Removing common words* appliyed.
   - `steam_games_reduced_2.csv`: Preprocessed data with all the steps.
 - `preprocessing.ipynb` : Contains all the preprocessing steps as 
